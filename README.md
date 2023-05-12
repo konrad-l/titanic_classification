@@ -6,4 +6,4 @@ The goal of the work was create a model that predicts which passengers survived 
 
 - Python
 - Pandas
-- Plotly
+- Scikit-learn
